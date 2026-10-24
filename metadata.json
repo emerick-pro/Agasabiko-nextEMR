@@ -1,0 +1,6 @@
+{
+  "name": "AMAGARAInfo - Modern EMR for Burundi",
+  "description": "Dossier médical électronique moderne pour le Burundi (SIDAInfo Next). Conçu pour le fonctionnement hors ligne avec synchronisation optimisée pour bas débit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
